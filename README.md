@@ -25,4 +25,5 @@ Client(Central) communicates with Server(Peripheral) with 1 byte LED ON OFF data
  Take this number and put it in your clients code. 
  
  ## Demo video of 2 way communication
+ Click on the image to see the video
  [![ScreenShot](2_way_communication.jpg)](https://drive.google.com/open?id=0BxQoWoSofKvaVVAyeDR1SFltaE0)
