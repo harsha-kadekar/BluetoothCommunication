@@ -1,0 +1,8 @@
+C:/D_Drive/Coding/BluetoothCommunication/Simple_1_Way_Communication/Bluetooth_central_client/client_test.cydsn/CortexM0/ARM_GCC_493/Debug/CyBootAsmGnu.o : C:/D_Drive/Coding/BluetoothCommunication/Simple_1_Way_Communication/Bluetooth_central_client/client_test.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s C:/D_Drive/Coding/BluetoothCommunication/Simple_1_Way_Communication/Bluetooth_central_client/client_test.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/D_Drive/Coding/BluetoothCommunication/Simple_1_Way_Communication/Bluetooth_central_client/client_test.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_1_Way_Communication/Bluetooth_central_client/client_test.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_1_Way_Communication/Bluetooth_central_client/client_test.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_1_Way_Communication/Bluetooth_central_client/client_test.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+

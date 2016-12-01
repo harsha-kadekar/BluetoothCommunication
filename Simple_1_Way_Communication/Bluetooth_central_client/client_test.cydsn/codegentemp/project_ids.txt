@@ -1,0 +1,5 @@
+C:\D_Drive\Coding\BluetoothCommunication\Simple_1_Way_Communication\Bluetooth_central_client\client_test.cydsn\client_test.cyprj|c4fe7e69-a088-4985-8627-281eb30b9d7a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|1fcde31d-691e-4e74-8fc9-c25ea70b8996
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|363f9fbf-61c4-46d8-9843-8f7877cef4a0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|721baeba-bedc-4387-9d3f-fd827f70f338
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|3efd41c5-9d42-45aa-9781-5fcd453827c7

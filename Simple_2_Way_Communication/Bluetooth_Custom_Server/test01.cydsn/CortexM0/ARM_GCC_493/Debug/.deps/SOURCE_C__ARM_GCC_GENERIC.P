@@ -1,0 +1,100 @@
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/CortexM0/ARM_GCC_493/Debug/main.o : C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_HAL_PVT.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_STACK_PVT.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_Stack.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackGap.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackGatt.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackGattClient.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackGattDb.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackGattServer.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackHostMain.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackL2cap.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_bless_isr.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_custom.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_eventHandler.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_gatt.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/CyFlash.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/CyLib.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_Red.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_Red_aliases.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_Status.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_Status_aliases.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_button.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_button_aliases.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_BOOT.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_PINS.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_PVT.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_SCBCLK.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_SPI_UART.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_SPI_UART_PVT.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_rx.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_rx_aliases.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_tx.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_tx_aliases.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/core_cm0.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/core_cmFunc.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/core_cmInstr.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cyPm.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cypins.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cytypes.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/project.h C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/main.c C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/main.h 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_HAL_PVT.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_STACK_PVT.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_Stack.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackGap.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackGatt.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackGattClient.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackGattDb.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackGattServer.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackHostMain.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_StackL2cap.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_bless_isr.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_custom.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_eventHandler.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/BLE_gatt.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_Red.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_Red_aliases.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_Status.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_Status_aliases.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_button.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/Pin_button_aliases.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_BOOT.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_PINS.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_PVT.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_SCBCLK.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_SPI_UART.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_SPI_UART_PVT.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_rx.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_rx_aliases.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_tx.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/SERIAL_tx_aliases.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/main.c : 
+
+C:/D_Drive/Coding/BluetoothCommunication/Simple_2_Way_Communication/Bluetooth_Custom_Server/test01.cydsn/main.h : 
+
