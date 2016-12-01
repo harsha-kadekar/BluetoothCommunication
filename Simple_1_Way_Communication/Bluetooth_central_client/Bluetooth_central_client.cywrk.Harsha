@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Bluetooth_central_client\client_test\client_test.cydwr">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Bluetooth_central_client\client_test">
 <ExpandedNodeIds>
 <v>Bluetooth_central_client</v>
 <v>Bluetooth_central_client\client_test</v>
@@ -250,41 +250,6 @@
 <VisibleNodeIds>
 <v>Bluetooth_central_client</v>
 <v>Bluetooth_central_client\client_test</v>
-<v>Bluetooth_central_client\client_test\CortexM0</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_1.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_1_bless_isr.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_1_custom.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_1_eventHandler.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_1_gatt.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_1_HAL_INT.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\BLE_1_HAL_PVT.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Blue.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Blue_PM.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Button.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Button_PM.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Green.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Green_PM.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Red.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\Pin_Red_PM.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\SERIAL.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\SERIAL_BOOT.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\SERIAL_PM.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\SERIAL_rx.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\SERIAL_SCBCLK.lst</v>
-<v>Bluetooth_central_client\client_test\CortexM0\ARM_GCC_493\Debug\Listing Files\SERIAL_SPI_UART.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -338,7 +303,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="842, 495" SelectedTabbedMdiWindow="bc19886d-7adf-405b-985c-76f120e50396"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="830e330b-7553-44ca-93ce-01328e6ff5c9" /><DocumentWindow Key="a1b919df-13e1-4107-b0a1-337da23c3b48" Guid="feae2a28-9f9d-4964-a25e-17e419cdad89" /><DocumentWindow Key="23da8a11-6258-4814-8813-0180e2a84773" Guid="08862e12-c556-47e1-a703-16098cdb17d2" /><DocumentWindow Key="833ae635-678b-414d-93ce-e79aca41be19" Guid="1795afff-aea0-4512-8ae2-e3e000fa4b27" /><DocumentWindow Key="85e5f8db-fcd1-4f2d-9c65-f86fc510983e" Guid="bc19886d-7adf-405b-985c-76f120e50396" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="842, 495" SelectedTabbedMdiWindow="0f64f07e-31da-4e71-9f93-0b6dffcfc936"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="830e330b-7553-44ca-93ce-01328e6ff5c9" /><DocumentWindow Key="77653ef3-3d83-4291-a2d6-25bac2ed8fdf" Guid="c4e420d0-c7d5-4e19-b230-0db1365d4605" /><DocumentWindow Key="3e62c745-551a-4cfa-8a76-8660d2044eaa" Guid="6fad22ba-d61b-4667-a4f4-ae156a03885e" /><DocumentWindow Key="ec000a0f-4ac2-481a-8799-0856f51c3d5d" Guid="8c09256e-409e-4e21-aeb3-aed02b7c008b" /><DocumentWindow Key="b3ee4e7a-1afd-445a-9aa9-7302d028fb5e" Guid="0f64f07e-31da-4e71-9f93-0b6dffcfc936" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
