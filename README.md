@@ -18,12 +18,12 @@ Client(Central) communicates with Server(Peripheral) with 1 byte LED ON OFF data
  2. Bluetooth_Custom_Central
  This has PSoC project related to client.
  
- ## Server's MAC address
- In both 1-way and 2-way communication, Client will only connect to the server. For this Servers MAC address has to be provided in clients code.
- To find the servers mac address. First program Server code to your PSoC BLE board. Then open your CySmart app in your phone.
- Server will be listed with the name as "Server BLE". Below that you will find the MAC address of that device. Like "A0 34 F1 89 23 12".
- Take this number and put it in your clients code. 
+## Server's MAC address
+In both 1-way and 2-way communication, Client will only connect to the server. For this Servers MAC address has to be provided in clients code.
+To find the servers mac address. First program Server code to your PSoC BLE board. Then open your CySmart app in your phone.
+Server will be listed with the name as "Server BLE". Below that you will find the MAC address of that device. Like "A0 34 F1 89 23 12".
+Take this number and put it in your clients code. 
  
- ## Demo video of 2 way communication
- Click on the image to see the video
- [![ScreenShot](2_way_communication.jpg)](https://drive.google.com/open?id=0BxQoWoSofKvaVVAyeDR1SFltaE0)
+## Demo video of 2 way communication
+Click on the image to see the video
+[![ScreenShot](2_way_communication.jpg)](https://drive.google.com/open?id=0BxQoWoSofKvaVVAyeDR1SFltaE0)
